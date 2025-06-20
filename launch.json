@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "Run Java with input/output redirection",
+        "request": "launch",
+        "mainClass": "learnjava",
+        "vmArgs": "",
+        "args": "< input.txt > output.txt"
+      }
+    ]
+  }
+  
